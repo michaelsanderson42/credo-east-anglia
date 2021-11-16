@@ -1,0 +1,2 @@
+cd /home/h03/hadmi/Python/bin/isimip3basd-master
+python bias_adjustment.py -o /scratch/hadmi/CReDo/HadUK_on_2.2km/pr/East_Anglia_pr_obs_hadukgrid_uk_1km_day_19801201-20001130.nc -s /scratch/hadmi/CReDo/cpm_prep/01/pr/East_Anglia_pr_rcp85_land-cpm_uk_2.2km_01_19801201-20001130.nc -f /scratch/hadmi/CReDo/cpm_prep/01/pr/East_Anglia_pr_rcp85_land-cpm_uk_2.2km_01_20201201-20401130.nc -b /scratch/hadmi/CReDo/test_pr_isimip3.nv -v pr

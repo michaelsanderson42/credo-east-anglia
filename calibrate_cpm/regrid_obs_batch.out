@@ -1,0 +1,44 @@
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_20001101-20001130.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_20001101-20001130.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_20001001-20001031.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_20001001-20001031.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_20000801-20000831.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_20000801-20000831.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_20000601-20000630.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_20000601-20000630.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_20000701-20000731.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_20000701-20000731.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_20000301-20000331.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_20000301-20000331.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_20000901-20000930.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_20000901-20000930.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_20000501-20000531.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_20000501-20000531.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_20000401-20000430.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_20000401-20000430.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_19991201-19991231.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_19991201-19991231.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_20000201-20000229.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_20000201-20000229.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_19980401-19980430.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_19980401-19980430.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_19980101-19980131.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_19980101-19980131.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_19990801-19990831.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_19990801-19990831.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_19991001-19991031.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_19991001-19991031.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_19990501-19990531.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_19990501-19990531.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_19990601-19990630.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_19990601-19990630.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_19990901-19990930.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_19990901-19990930.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_19990201-19990228.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_19990201-19990228.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_19981201-19981231.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_19981201-19981231.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_19990401-19990430.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_19990401-19990430.nc
+CReDo East_Anglia tasmin /project/ukcp18/ncic_observations/post_processed/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.0.0.0/1km/tasmin/day/v20181126/tasmin_hadukgrid_uk_1km_day_19990301-19990331.nc
+fout= East_Anglia_tasmin_obs_hadukgrid_uk_2.2km_day_19990301-19990331.nc
